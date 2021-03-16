@@ -1,1 +1,2 @@
-# rust-cli-template
+# {{project-name}}
+Cargo template for generating CLIs
